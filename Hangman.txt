@@ -1,0 +1,16 @@
+#Word list for Hangman game. Please add entries on separate lines.
+pizza
+cake
+cookies
+steak
+marshmallows
+chips
+chocolate
+crackers
+cheese
+cupcakes
+soda
+guacamole
+chicken
+hamburgers
+	
